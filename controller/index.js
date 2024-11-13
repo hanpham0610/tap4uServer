@@ -17,3 +17,5 @@ pool.connect((err) => {
     console.log('Kết nối PostgreSQL thành công!');
   }
 });
+
+module.exports = pool;

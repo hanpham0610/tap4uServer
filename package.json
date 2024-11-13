@@ -14,7 +14,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "pg": "^8.13.0",
+    "pg": "^8.13.1",
     "websocket-server": "file:",
     "ws": "^8.18.0"
   }
